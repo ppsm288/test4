@@ -4,7 +4,10 @@ public class Hell {
     }
 
     public void printHell() {
-        System.out.println("Hello,user12346554765587587yufds!");
+
+        System.out.println("Hello,mahesh!")
+  System.out.println("Hello,user12346554765587587yufds!");
+
     }
 }
 
