@@ -1,0 +1,10 @@
+This is the content of file1.txt.
+
+<<<<<<< HEAD
+This change was made in the master branch.
+=======
+This change was made in the feature branch.
+>>>>>>> feature_branch
+
+End of file1.txt.
+
