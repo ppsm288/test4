@@ -1,36 +1,10 @@
 This is the content of file2.txt.
 
-<<<<<<< HEAD
-This change was made in the master branch.
+<<<<<<< tail
+This change was made in the main  branch.
 =======
-This change was made in the feature branch.
+This change was made in the develop branch.
 >>>>>>> feature_branch
 
 End of file2.txt.
-This is the content of file2.txt.
-
-<<<<<<< HEAD
-This change was made in the master branch.
-=======
-This change was made in the feature branch.
->>>>>>> feature_branch
-
-End of file2.txt.
-This is the content of file2.txt.
-
-<<<<<<< HEAD
-This change was made in the master branch.
-=======
-This change was made in the feature branch.
->>>>>>> feature_branch
-
-End of file2.txt.
-This is the content of file2.txt.
-
-<<<<<<< HEAD
-This change was made in the master branch.
-=======
-This change was made in the feature branch.
->>>>>>> feature_branch
-
-End of file2.txt.
+This is the content of file3.txt
