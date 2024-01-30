@@ -1,0 +1,6 @@
+This is the content of file2.txt.
+
+This change was made in the develop branch.
+
+End of file2.txt.
+This is the content of file3.txt
