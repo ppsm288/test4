@@ -1,11 +1,11 @@
-public class HelloWorld {
+public class Hell {
     public static void main(String[] args) {
-        HelloWorld helloWorld = new HelloWorld();
-        helloWorld.printHelloWorld();
+        Hell helloWorld = new HelloWorld();
+        hell.printHell();
     }
 
-    public void printHelloWorld() {
-        System.out.println("Hello, World!");
+    public void printHell() {
+        System.out.println("Hello,!");
     }
 }
 
