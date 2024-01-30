@@ -1,10 +1,6 @@
 This is the content of file2.txt.
 
-<<<<<<< tail
-This change was made in the main  branch.
-=======
 This change was made in the develop branch.
->>>>>>> feature_branch
 
 End of file2.txt.
 This is the content of file3.txt
